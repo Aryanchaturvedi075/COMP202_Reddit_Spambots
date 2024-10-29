@@ -1,0 +1,1 @@
+From my perspective, I loathe using Pickle! It's exhausting, troublesome, and time-consuming! I wanna be able to access my file from outside. Boole Ian's mandate sucks!

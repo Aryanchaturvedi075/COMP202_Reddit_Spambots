@@ -1,0 +1,1 @@
+[PARAGRAPH-OPENER], I [HATE-SYNONYMS] using Pickle! It's [NEGATIVE-ADJECTIVE_1], [NEGATIVE-ADJECTIVE_2], and [NEGATIVE-ADJECTIVE_3]! I wanna be able to access my file from outside. Boole Ian's mandate sucks!
